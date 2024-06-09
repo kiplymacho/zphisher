@@ -28,6 +28,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 <!-- Zphisher -->
 
 <p align="center">
+   
   <img src=".github/misc/logo.png">
 </p>
 
