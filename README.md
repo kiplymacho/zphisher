@@ -161,7 +161,7 @@ $ zphisher
 
 ### Find Me on:
 <p align="left">
-  <a href="https://kiplymacho.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
+  <a href="https://linktr.ee/kiplymacho" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
   <a href="https://github.com/kiplymacho" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
 
