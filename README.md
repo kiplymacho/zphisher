@@ -136,7 +136,7 @@ $ zphisher
 - Docker Image Mirror:
   - **DockerHub** : 
     ```
-    docker pull htrtech/zphisher
+    docker pull kiplymacho/zphisher
     ```
   - **GHCR** : 
     ```
@@ -146,13 +146,13 @@ $ zphisher
 - By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
 
   ```
-  $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
+  $ curl -LO https://raw.githubusercontent.com/kiplymacho/zphisher/master/run-docker.sh
   $ bash run-docker.sh
   ```
 - Temporary Container
 
   ```
-  docker run --rm -ti htrtech/zphisher
+  docker run --rm -ti kiplymacho/zphisher
   ```
   - Remember to mount the `auth` directory.
 
@@ -200,7 +200,7 @@ $ zphisher
 
 <table>
   <tr align="center">
-    <td><a href="https://github.com/Yisus7u7"><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /><sub><b>Yisus7u7</b></sub></a></td>
+    <td><a href="https://github.com/htr-tech"><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /><sub><b>Yisus7u7</b></sub></a></td>
   </tr>
 <table>
 
